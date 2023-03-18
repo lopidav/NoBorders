@@ -1,0 +1,9 @@
+{
+    "name": "NoBorders",
+    "version_number": "0.1.0",
+    "website_url": "https://github.com/lopidav/BetterCrane",
+    "description": "Improves cranes. Allows them to buy and sell, take out cards from boosters and coin chests, move any player-draggable cards exept buildings, and prohibits them for moving cards that in a process of something.",
+    "dependencies": [
+        "BepInEx-BepInExPack_Stacklands-5.4.2100"
+    ]
+}

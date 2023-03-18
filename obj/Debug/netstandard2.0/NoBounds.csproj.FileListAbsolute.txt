@@ -1,0 +1,10 @@
+D:\dev\NoBounds\bin\Debug\netstandard2.0\NoBounds.deps.json
+D:\dev\NoBounds\bin\Debug\netstandard2.0\NoBounds.dll
+D:\dev\NoBounds\bin\Debug\netstandard2.0\NoBounds.pdb
+D:\dev\NoBounds\obj\Debug\netstandard2.0\NoBounds.csproj.AssemblyReference.cache
+D:\dev\NoBounds\obj\Debug\netstandard2.0\NoBounds.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\NoBounds\obj\Debug\netstandard2.0\NoBounds.AssemblyInfoInputs.cache
+D:\dev\NoBounds\obj\Debug\netstandard2.0\NoBounds.AssemblyInfo.cs
+D:\dev\NoBounds\obj\Debug\netstandard2.0\NoBounds.csproj.CoreCompileInputs.cache
+D:\dev\NoBounds\obj\Debug\netstandard2.0\NoBounds.dll
+D:\dev\NoBounds\obj\Debug\netstandard2.0\NoBounds.pdb
